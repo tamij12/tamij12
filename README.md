@@ -5,8 +5,6 @@
 </p>
 <br>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br><br>
 
 <div id="user-content-toc">
@@ -15,7 +13,7 @@
   </ul>
 </div>
 
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <!--Intro start-->
 - 🔭 I’m currently **open for a job opportunity**
 
@@ -39,7 +37,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,scss,moongose,discord,express,figma,firebase,github,html,js,linux,materialui,nginx,mongodb,nextjs,nodejs,postman,react,redux,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,aws,googlecloud,css,scss,notion,discord,express,figma,firebase,github,npm,html,js,linux,materialui,nginx,mongodb,nextjs,nodejs,postman,react,redux,tailwind,vscode" />
   </a>
 </p>
 <br>
