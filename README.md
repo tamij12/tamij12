@@ -1,15 +1,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi, I'm Tania Mijangos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+-+Stack+Developer;Competitive+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+-+Stack+Developer;Competitive+Programmer;Always+learning+new+things;coding..."></a>
 </p>
 <br>
-
-<br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Fullstack developer with strong motivation to grow in the tech field. Through online courses and personal projects, I have acquired skills in web development and application design. Although my formal experience is limited, my initiative and proactivity have allowed me to build a solid foundation in modern technologies and development methodologies</h2></summary>
+    <summary><h2 style="display: inline-block">🐣 Fullstack developer with strong motivation to grow in the tech field. Through online courses and personal projects, I have acquired skills in web development and application design. Although my formal experience is limited, my initiative and proactivity have allowed me to build a solid foundation in modern technologies and development methodologies ♥︎</h2></summary>
   </ul>
 </div>
 
