@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
 
 - 📝 Always **learning new things**, **Confusion is part of Programming**
 
