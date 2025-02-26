@@ -7,11 +7,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">🐣 Fullstack Developer with passionate about creating efficient and scalable technological solutions. I l ♥︎ v e taking on challenges, constantly learning, and writing clean code that delivers intuitive and functional user experiences.
+    <summary><h2 style="display: inline-block">🐣 Fullstack Developer with passionate about creating efficient and scalable technological solutions. I love taking on challenges, constantly learning, and writing clean code that delivers intuitive and functional user experiences.
 
 My approach goes beyond just coding; I enjoy designing well-structured, optimized applications with best development practices. I thrive on working on projects that present a challenge, always striving to improve and add value with every line of code.
-
-I am always open to new opportunities, collaborations, and learning experiences. Let’s build something amazing together! 🚀 </h2></summary>
+ </h2><br>
+   <h2>I am always open to new opportunities, collaborations, and learning experiences. Let’s build something amazing together! 🚀<h2/>
+ </summary>
   </ul>
 </div>
 
