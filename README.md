@@ -25,8 +25,6 @@
 - 📝 Always **learning new things**, **Confusion is part of Programming**
 
 - 📫 Feel free to reach me out **tamijangosrz@gmail.com**
-  
-- 🚀 Visit my Web Site <ul>dev-tania<ul/>
 
 <!--Intro end-->
 
